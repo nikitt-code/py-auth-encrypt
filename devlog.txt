@@ -2,3 +2,4 @@
 0.0.1.1 - fix some bugs
 0.0.1.1 - change dict method to ord
 0.0.2.0 - code moved to class PACrypt.Init
+0.0.2.1 - added exceptions to functions

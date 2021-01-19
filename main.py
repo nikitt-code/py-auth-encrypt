@@ -10,7 +10,7 @@ def str2int(line: str, step: int = 3) -> int:
     return hash_sum
 
 
-def phone2code(phone: int):
+def phone2code(phone: int) -> int:
     """ beta - with no zeros """
     phstr = str(phone)
     step = int(phstr[0])
